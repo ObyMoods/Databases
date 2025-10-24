@@ -797,7 +797,8 @@ async function main() {
 │ • ${prefix}tohd  | add image quality
 │ • ${prefix}trackip | Track IP address
 │ • ${prefix}cekhost | Website data information
-│ • ${prefix}ssweb [ Kata Kunci ] | website screenshot 
+│ • ${prefix}ssweb [ Kata Kunci ] | website screenshot
+│ • ${prefix}q  | Make stickers
 ╰───────────────
 ╭─❰ <b>🌐 P T E R O D A C T Y L</b> ❱
 │ • ${prefix}1gb - 10gb nama, ID
